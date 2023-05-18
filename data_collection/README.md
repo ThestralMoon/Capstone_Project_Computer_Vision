@@ -1,4 +1,4 @@
-# 3.5 Data Collection
+# Data Collection
 
 ## VIRAT Video Dataset
 
